@@ -1,0 +1,8 @@
+C:\Users\Pham Ngoc Hau\Desktop\QLPhim\QLPhim\QLPhim\QLPhim\bin\Debug\QLPhim.exe.config
+C:\Users\Pham Ngoc Hau\Desktop\QLPhim\QLPhim\QLPhim\QLPhim\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pham Ngoc Hau\Desktop\QLPhim\QLPhim\QLPhim\QLPhim\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pham Ngoc Hau\Desktop\QLPhim\QLPhim\QLPhim\QLPhim\obj\Debug\QLPhim.csproj.ResolveComReference.cache
+C:\Users\Pham Ngoc Hau\DoanthayAnh\QLPhim\bin\Debug\QLPhim.exe.config
+C:\Users\Pham Ngoc Hau\DoanthayAnh\QLPhim\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pham Ngoc Hau\DoanthayAnh\QLPhim\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pham Ngoc Hau\DoanthayAnh\QLPhim\obj\Debug\QLPhim.csproj.ResolveComReference.cache
